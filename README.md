@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Type-Ransomware-critical">
   <img src="https://img.shields.io/badge/Focus-Cyber%20Security-darkred">
-  <img src="https://img.shields.io/badge/Author-EvilSanta2008-black">
+  <img src="https://img.shields.io/badge/Author-EvilSanta2008-red">
 </p>
 
 ---
