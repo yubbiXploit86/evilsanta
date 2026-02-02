@@ -5,8 +5,8 @@
 <h1 align="center">🎅 EvilSanta2008</h1>
 
 <p align="center">
-  <b>Advanced Ransomware Project</b><br>
-  <i>Silent. Cold. Relentless.</i>
+  <b>Ransomware Project</b><br>
+  <i> my first Ransomware project.</i>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ---
 
-## 🧬 Overview
+## 🧬 OVERVIEW
 
 **EvilSanta2008** adalah sebuah project ransomware yang dirancang dengan fokus pada:
 
@@ -30,7 +30,7 @@ dan ini projek Ransomware pertamaku.
 
 ---
 
-## ⚙️ Characteristics
+## ⚙️ KARAKTERISTIK
 
 - 🎭 Ransomware 
 - 🔐 Lock-database dan system komputer 
@@ -38,3 +38,8 @@ dan ini projek Ransomware pertamaku.
 - 🎅 Signature “evilsanta2008”
 
 ---
+## DETAIL RANSOMWARE
+
+<p align="center">
+  <img src="assets/preview.png" width="620" alt="EvilSanta2008 Preview">
+</p>
