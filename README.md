@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/evilsanta2008.png" width="190" alt="EvilSanta2008 Logo">
+  <img src="https://f.top4top.io/p_3685oi2id0.png" width="190" alt="EvilSanta2008 Logo">
 </p>
 
 <h1 align="center">🎅 EvilSanta2008</h1>
@@ -36,13 +36,5 @@ dan ini projek Ransomware pertamaku.
 - 🔐 Lock-database dan system komputer 
 - 🖥️ untuk windows 
 - 🎅 Signature “evilsanta2008”
-
----
-
-## 🖼️ Visual Preview
-
-<p align="center">
-  <img src="assets/preview.png" width="620" alt="EvilSanta2008 Preview">
-</p>
 
 ---
