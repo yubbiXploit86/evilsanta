@@ -41,5 +41,5 @@ dan ini projek Ransomware pertamaku.
 ## DETAIL RANSOMWARE
 
 <p align="center">
-  <img src="assets/preview.png" width="620" alt="EvilSanta2008 Preview">
+  <img src="https://b.top4top.io/p_36856ye8y0.jpg" width="620" alt="EvilSanta2008 Preview">
 </p>
